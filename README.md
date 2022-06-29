@@ -6,11 +6,11 @@ image colorizer is a desktop app written in java to colorize grey scale images u
 is a flooding algorithm that determines and alters the area connected to a given node in a multi-dimensional array with some matching attribute. It is used in the "bucket" fill tool of paint programs to fill connected, similarly-colored areas with a different color, and in games such as Go and Minesweeper for determining which pieces are cleared. A variant called boundary fill uses the same algorithms but is defined as the area connected to a given node that does not have a particular attribute.<br>
 here is a visual explanation of the algorithm<br>
 ![7AcNo](https://user-images.githubusercontent.com/59266093/176354488-d11a002b-523e-4045-a7e5-9ffbbbe51114.png)<br>
-## what the project contains:
-1- Jave implementation of the Flood Fill algorithm<br>
+## What the project contains:
+1- Java implementation of the Flood Fill algorithm<br>
 2- GUI for the colorizer app <br>
-3- Detailed report about how the project implemented (in Arabic)
-## how to use the project:
+3- Detailed report about how the project was implemented (in Arabic)
+## How to use the project:
 this project was written in java and Neatbeans IDE so you can use it directly with neatbeans or you can copy its classes to any IDE that Support JAVA(eclipse,VScode,IntelliJ...etc)<br>
 examples folder contains some grey scale images so i encourage you to try out the app using the examples images or a grey image of yours<br>
 1- select a grey scale image (or black and white)<br>
